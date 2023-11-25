@@ -1,1 +1,5 @@
-# kaggle_nasdaq
+# discussion for reference
+
+
+# coad for reference
+
